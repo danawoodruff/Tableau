@@ -14,13 +14,14 @@ Data is sourced from the [Citi Bike Data](https://www.citibikenyc.com/system-dat
 
 The data .csv file was read into a [Jupyter Notebook.](/Data_Cleaning.ipynb).  Python code was used for data manipulation.  The file in raw form is too large for Tableau public. 
 
-  
+After three .csvs were imported into Tableau Public they were linked together using "Year".  "Year" was selected as it would be a global filter for the dashboard.
 
-<p align="center"><kbd><img width="600" height="auto" src="static/Images/landingpage.PNG"></kbd>
+<h3>Dashboard</h3>
+Five worksheets each have a visualization. The visualizations are brought together on the dashboard.  The main filter is to retrieve data for each year. It is important to note that because of the limit on file size the data is the month of June for each year.  While trends are accurate individual counts are not.
+<p align="center"><kbd><img width="600" height="auto" src="static/Images/Year_Filter.PNG"></kbd>
 
-<h3>Interactive Map Visualization</h3><br>
-The language Python 
-<p align="center"><kbd><img width="500" height="auto" src="static/Images/layers.PNG"></kbd>
+The "Top 25" visualization has a unique filter that allows the user to select the most popular stations to start a trip from or the most popular stations to end a trip at.  Hovering over the bars displays a tooltip describing the station's address.
+<p align="center"><kbd><img width="600" height="auto" src="Images/Top25.PNG"></kbd>
   
 
 
