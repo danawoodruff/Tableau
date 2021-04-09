@@ -5,15 +5,14 @@ https://public.tableau.com/views/NYCBikeStations/Dashboard?:language=en&:display
 <body>
 <p>
 <h2>NYC Public Bicycle System Dashboard - with user interactivity</h2>
-The project provides a visualization of          utilizing       Mapbox, and deployed utilizing Flask and <a href="https://apple-crisp-42918.herokuapp.com/">Heroku.</a><br>
+The project provides a visualization of NYC Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/views/NYCBikeStations/Dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link">NYC Bicycle Dashboard.</a><br>
 
-<h3>Data</h3>
-Data was sourced from the Houston Association of REALTORS® and downloaded as a .csv.<a href="https://www.HAR.com"> Visit HAR.</a>
-
-
-After the visualization was built the data source was routed to the SQL database via [Jupyter Notebook.](static/ETL/Master-github.ipynb).  Python code was added to a [datalayer file.](datalayer.py) to convert to GeoJson, and a route created for the converted data in an [app.py file](app.py). This route is used by two visualizations.  
-<p align="center"><kbd><img width="500" height="auto" style= "border:3px solid black;" src="static/Images/geopy_code.PNG"></kbd>
+<p align="center"><kbd><img width="600" height="auto" src="Images/Dashboard.PNG"></kbd>
   
+<h3>Data</h3>
+Data is sourced from the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.</a>
+
+The data .csv file was read into a [Jupyter Notebook.](/Data_Cleaning.ipynb).  Python code was used for data manipulation.  The file in raw form is too large for Tableau public. 
 
   
 
