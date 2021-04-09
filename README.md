@@ -33,7 +33,7 @@ The language Python
 
 Users may view code at the following links:
 
-To view the Jupyter Notebook's code: [Python Code](Data_Cleaning.jpynb)   
+To view the Jupyter Notebook's code: [Python Code](/Data_Cleaning.ipynb)   
 To view the data .csvs: [.csvs](/Resources)                       
 
 
