@@ -18,7 +18,7 @@ After three .csvs were imported into Tableau Public they were linked together us
 
 <h3>Dashboard</h3>
 Five worksheets each have a visualization. The visualizations are brought together on the dashboard.  The main filter is to retrieve data for each year. It is important to note that because of the limit on file size the data is the month of June for each year.  While trends are accurate individual counts are not.
-<p align="center"><kbd><img width="600" height="auto" src="Images/Year_Filter.png"></kbd>
+<p align="center"><kbd><img width="300" height="auto" src="Images/Year_Filter.png"></kbd>
 
 The "Top 25" visualization has a unique filter that allows the user to select the most popular stations to start a trip from or the most popular stations to end a trip at. A third option for "Total Trip Count" is also available.  The visualization's title changes with the user's selection.  Hovering over the bars displays a tooltip describing the station's address.
 <p align="center"><kbd><img width="600" height="auto" src="Images/Top25.PNG"></kbd>
