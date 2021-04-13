@@ -1,4 +1,4 @@
-https://public.tableau.com/views/NYCBikeStations/Dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
 
 <html>
 <p align="center"><img width="100%" height="60px" src="static/Images/header.PNG"></p>            
