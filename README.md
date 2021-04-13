@@ -1,7 +1,7 @@
 
 
 <html>
-<p align="center"><img width="100%" height="60px" src="static/Images/header.PNG"></p>            
+           
 <body>
 <p>
 <h2>NYC Public Bicycle System Dashboard - with user interactivity</h2>
