@@ -22,12 +22,7 @@ Five worksheets each have a visualization. The visualizations are brought togeth
 
 The "Top 25" visualization has a unique filter that allows the user to select the most popular stations to start a trip from or the most popular stations to end a trip at. A third option for "Total Trip Count" is also available.  The visualization's title changes with the user's selection.  Hovering over the bars displays a tooltip describing the station's address.
 <p align="center"><kbd><img width="600" height="auto" src="Images/Top25.PNG"></kbd>
-  
-
-
-<p align="center"><kbd><img width="600" height="auto" src="static/Images/map.PNG"></kbd>
-
-
+ 
 Users may view code at the following links:
 
 To view the Jupyter Notebook's code: [Python Code](/Data_Cleaning.ipynb)   
