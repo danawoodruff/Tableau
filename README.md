@@ -10,11 +10,11 @@ The project provides a visualization of NYC Public Bicycle System data utilizing
 <p align="center"><kbd><img width="700" height="auto" src="Images/Dashboard.PNG"></kbd>
   
 <h3>Data</h3>
-Data is sourced from the <a href="https://www.citibikenyc.com/system-data">Citi Bike Data webpage.</a>
+Data is sourced from the <a href="https://www.citibikenyc.com/system-data">Citi Bike Data webpage.</a><br>
 <br>
-The data .csv file was read into a [Jupyter Notebook.](/Data_Cleaning.ipynb).  Python code was used for data manipulation.  The file in raw form is too large for Tableau public. 
+The data .csv file was read into a [Jupyter Notebook.](/Data_Cleaning.ipynb).  Python code was used for data manipulation.  The file in raw form is too large for Tableau public. <br>
 <br>
-After three .csvs were imported into Tableau Public they were linked together using "Year".  "Year" was selected as it would be a global filter for the dashboard.
+After three .csvs were imported into Tableau Public they were linked together using "Year".  "Year" was selected as it would be a global filter for the dashboard.<br>
 <br>
 <h3>Dashboard</h3>
 Five worksheets each have a visualization. The visualizations are brought together on the dashboard.  The main filter is to retrieve data for each year. It is important to note that because of the limit on file size the data is the month of June for each year.  While trends are accurate individual counts are not.
