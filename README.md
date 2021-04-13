@@ -25,9 +25,6 @@ The "Top 25" visualization has a unique filter that allows the user to select th
   
 
 
-<p align="center"><kbd><img "width="360" height="auto" hspace="25" src="Images/popup.PNG"></kbd>&nbsp;&nbsp;<kbd><img width="124" height="auto" hspace="25" src="static/Images/icons.PNG"></kbd></p>
-
-
 <p align="center"><kbd><img width="600" height="auto" src="static/Images/map.PNG"></kbd>
 
 
